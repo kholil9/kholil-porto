@@ -185,29 +185,21 @@ img
 .servicesbx img {
     margin-bottom: 16px;
 }
-.work .content {
-    flex-direction: row;
-}
-.testimonial 
-{
-    background: #f7f7f7;
-   
-}
-.testimonial .content
-{
+
+
+.work .content{
     display: flex;
-    justify-content: space-between;
     flex-wrap: wrap;
 
 }
 
-.testimonial .content .testimonialbx 
-{
-    max-width: calc(50% - 40%);
-    padding: 60px 40px;
-    margin: 20px;
-    background: #2196f3;
+.box_picture{
+    display: flex;
+    justify-content: space-around;
 }
+
+
+
 
 
    
